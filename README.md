@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Rules of the road
+- What you learn while building is always more important than what you build
+- Be humble
+- Don't give up
+- You are not the code you write
+- Joy is experiencing life with others, spark it
+- Code is not an asset, it's a liability
