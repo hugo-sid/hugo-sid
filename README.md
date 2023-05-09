@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Rules of the road
+
 - What you learn while building is always more important than what you build
-- Be humble
+- Be humble & kind
