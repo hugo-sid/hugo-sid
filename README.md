@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 
-- What you learn while building is always more important than what you build
+- What you learn while building is more important than what you build
 - Be humble & kind
