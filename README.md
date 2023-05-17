@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhugo-sid%2Fhugo-sid&countColor=%2337d67a&style=flat&labelStyle=upper)
-
 <!--
 **hugo-sid/hugo-sid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,3 +45,5 @@ Where lines of code become dreams manifest.
 Together we'll shape, create, and explore,
 In the realm of technology, forevermore.
 ```
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhugo-sid%2Fhugo-sid&countColor=%2337d67a&style=flat&labelStyle=upper)
