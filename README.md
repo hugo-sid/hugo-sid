@@ -42,13 +42,8 @@ Command-line orchestration, each task unveils.
 
 Git, the beacon of collaboration and version control,
 In its branches and commits, I find solace and console.
-With repositories as my canvas, projects come alive,
-I navigate the branches, embracing the thrive.
-
 On GitHub's stage, my passion takes flight,
 A poet of code, both day and night.
-Contributions bloom, like petals in the breeze,
-Nurturing a community that's bound to please.
 
 From Python's embrace to the web's enchanting grace,
 Through HTML, CSS, and JS, a captivating space.
