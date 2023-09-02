@@ -1,4 +1,3 @@
 settings:
-  max_lines: 11
-  disabled_events:
-    - push
+  max_lines: 15
+  whitelisted_events: [issues_close, pr_open, pr_merge, push, release, review]
