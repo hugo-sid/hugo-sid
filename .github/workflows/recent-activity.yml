@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Update Recent Activity
 
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
       - uses: Readme-Workflows/recent-activity@v2.4.1
