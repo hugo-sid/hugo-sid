@@ -1,0 +1,4 @@
+settings:
+  max_lines: 11
+  disabled_events:
+    - push
