@@ -7,6 +7,11 @@ My interests include:
 - CI/CD pipelines (automation)
 - Hugo static site generator
 
+So, far I have contributed to the documentation of:
+- Angular JS - [link to PRs](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Ahugo-sid)
+- HTTPie - [link to PRs](https://github.com/httpie/cli/pulls?q=is%3Apr+author%3Ahugo-sid)
+- Hugo themes site - [link to commits](https://github.com/gohugoio/hugoThemesSiteBuilder/commits?author=hugo-sid)
+
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
