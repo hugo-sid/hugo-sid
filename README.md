@@ -3,9 +3,9 @@
 Thanks for stopping by. 
 
 My interests include:
-- Technical documentation, docs as code
-- CI/CD pipelines (automation)
 - Hugo static site generator
+- CI/CD pipelines (automation)
+- Technical documentation, docs as code
 
 ## Recent Activities
 
