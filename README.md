@@ -10,7 +10,7 @@ My interests include:
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#140](https://github.com/hugo-sid/hugo-blog-awesome/pull/140#pullrequestreview-1761252118) in [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome)<br>
+1. 🔴 Requested 3 change(s) for [#140](https://github.com/hugo-sid/hugo-blog-awesome/pull/140#pullrequestreview-1761252118) in [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome)<br>
 2. 👍 Approved [#143](https://github.com/hugo-sid/hugo-blog-awesome/pull/143#pullrequestreview-1761251422) in [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome)<br>
 3. 👍 Approved [#385](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/385#pullrequestreview-1754169916) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
 4. 👍 Approved [#380](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/380#pullrequestreview-1749237091) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
