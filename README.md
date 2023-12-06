@@ -7,6 +7,7 @@ My interests include:
 - CI/CD pipelines (automation)
 - Technical documentation, docs as code
 
+Get in touch with me: https://matrix.to/#/@sid_r:matrix.org.
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
