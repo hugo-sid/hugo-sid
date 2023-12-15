@@ -16,7 +16,6 @@ Get in touch with me: https://matrix.to/#/@sid_r:matrix.org.
 3. 👍 Approved [#143](https://github.com/hugo-sid/hugo-blog-awesome/pull/143#pullrequestreview-1761251422) in [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome)<br>
 4. 👍 Approved [#385](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/385#pullrequestreview-1754169916) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
 5. 👍 Approved [#380](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/380#pullrequestreview-1749237091) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
-6. 👍 Approved [#379](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/379#pullrequestreview-1749236969) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhugo-sid%2Fhugo-sid&countColor=%2337d67a&style=flat&labelStyle=upper)
