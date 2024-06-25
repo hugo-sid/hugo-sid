@@ -4,6 +4,7 @@ Thanks for stopping by.
 
 My interests include:
 - Hugo static site generator
+- Website performance
 - CI/CD pipelines (automation)
 - Technical documentation, docs as code
 
