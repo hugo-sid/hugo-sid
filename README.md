@@ -26,7 +26,6 @@ My interests include:
 12. ✌️ Released [v1.17.0](https://github.com/hugo-sid/hugo-blog-awesome/releases/tag/v1.17.0) in [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome)<br>
 13. 👍 Approved [#213](https://github.com/hugo-sid/hugo-blog-awesome/pull/213#pullrequestreview-2330013544) in [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome)<br>
 14. 👍 Approved [#214](https://github.com/hugo-sid/hugo-blog-awesome/pull/214#pullrequestreview-2330008518) in [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome)<br>
-15. 👍 Approved [#234](https://github.com/hugo-sid/hugo-blog-awesome/pull/234#pullrequestreview-2330006582) in [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhugo-sid%2Fhugo-sid&countColor=%2337d67a&style=flat&labelStyle=upper)
