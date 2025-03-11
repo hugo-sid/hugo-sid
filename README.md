@@ -24,7 +24,6 @@ My interests include:
 10. 👍 Approved [#530](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/530#pullrequestreview-2653714595) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
 11. 👍 Approved [#528](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/528#pullrequestreview-2653712416) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
 12. 👍 Approved [#524](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/524#pullrequestreview-2630944283) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
-13. 👍 Approved [#522](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/522#pullrequestreview-2603350832) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhugo-sid%2Fhugo-sid&countColor=%2337d67a&style=flat&labelStyle=upper)
